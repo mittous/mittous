@@ -1,5 +1,8 @@
 
-![](https://github.com/mittous/mittous/blob/main/gif-code-programme-10.gif)
+</p>
+<p align="center">  
+<img src ="https://github.com/mittous/mittous/blob/main/gif-code-programme-10.gif">
+</p>
 - 👋 Hi, I’m @mittous.
 - 👀 I’m interested in learning anything related to programming.
 - 🌱 I’m currently learning c, c++, html, css, js.
