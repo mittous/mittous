@@ -1,8 +1,8 @@
 
 </p>
-<p align="center">  
+<p align="right">  
 <img src ="https://github.com/mittous/mittous/blob/main/87d3df2d5e7d37283e0e56b32d55a8a2.gif">
-<p align="center">
+<p align="left">
 <a href="https://github.com/mittous?tab=repositories](https://github.com/mittous?tab=repositories">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mittous&theme=dark"/>
 </a>
